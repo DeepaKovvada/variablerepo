@@ -5,8 +5,10 @@
 
 trigger:
 - main
+
 pool:
 name: Default
+
 variables:
  rgname: "yamlrg"
  loc: "westus2"
